@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar mRegistrationProgressBar;
     private TextView mInformationTextView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

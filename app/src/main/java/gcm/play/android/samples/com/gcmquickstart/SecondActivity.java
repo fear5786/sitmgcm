@@ -22,7 +22,11 @@ public class SecondActivity extends Activity {
         webSettings.setSaveFormData(false);
         webSettings.setJavaScriptEnabled(true);
         webSettings.setSupportZoom(false);
-        webView.loadUrl("http://www.sitms.com/index.php?option=com_content&view=article&id="+Model.articleID);
+        if (Model.articleID != "") {
+            webView.loadUrl("http://www.sitms.com/index.php?option=com_content&view=article&id=" + Model.articleID);
+        }else{
+            webView.loadUrl("http://www.sitms.com");
+        }
         //webView.loadUrl("http://www.sitms.com");
 
     }

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mth_tab_widget_background_ripple.xml",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\net.yanzm\\mth\\1.0.4\\res\\drawable-v21\\mth_tab_widget_background_ripple.xml"
+    },
+    {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },

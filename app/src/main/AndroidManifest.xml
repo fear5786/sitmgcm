@@ -23,6 +23,8 @@
         </activity>
         <activity android:name=".SecondActivity"
             android:label="SecondActivity"/>
+        <activity android:name=".FirstActivity"
+            android:label="FirstActivity"/>
 
         <!-- [START gcm_receiver] -->
         <receiver

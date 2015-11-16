@@ -33,6 +33,9 @@
         <activity
             android:name="gcm.play.android.samples.com.gcmquickstart.SecondActivity"
             android:label="SecondActivity" />
+        <activity
+            android:name="gcm.play.android.samples.com.gcmquickstart.FirstActivity"
+            android:label="FirstActivity" />
 
         <!-- [START gcm_receiver] -->
         <receiver
