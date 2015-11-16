@@ -1,0 +1,14 @@
+-keep class gcm.play.android.samples.com.gcmquickstart.MainActivity { <init>(); }
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+-keep class gcm.play.android.samples.com.gcmquickstart.MyGcmListenerService { <init>(); }
+-keep class gcm.play.android.samples.com.gcmquickstart.MyInstanceIDListenerService { <init>(); }
+-keep class gcm.play.android.samples.com.gcmquickstart.RegistrationIntentService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

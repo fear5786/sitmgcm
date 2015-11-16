@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <WebView
+        android:id="@+id/web_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <ImageButton android:id="@+id/imagebutton1" android:clickable="true"
+        android:layout_width="130dip" android:layout_height="130dip" android:layout_x="21dip"
+        android:layout_y="61dip" ></ImageButton>
+
+    <ImageButton android:id="@+id/imagebutton2" android:clickable="true"
+        android:layout_width="130dip" android:layout_height="130dip" android:layout_x="171dip"
+        android:layout_y="61dip" ></ImageButton>
+
+    <ImageButton android:id="@+id/imagebutton3" android:clickable="true"
+        android:layout_width="130dip" android:layout_height="130dip" android:layout_x="21dip"
+        android:layout_y="241dip" ></ImageButton>
+
+    <ImageButton android:id="@+id/imagebutton4" android:clickable="true"
+        android:layout_width="130dip"  android:layout_height="130dip" android:layout_x="171dip"
+        android:layout_y="241dip" ></ImageButton>
+
+    </LinearLayout>

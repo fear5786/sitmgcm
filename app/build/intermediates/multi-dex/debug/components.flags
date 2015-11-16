@@ -1,0 +1,54 @@
+-injars 'C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Gerbert\AppData\Local\Android\sdk\build-tools\23.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class gcm.play.android.samples.com.gcmquickstart.MainActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.gcm.GcmReceiver {
+    <init>();
+}
+
+-keep class gcm.play.android.samples.com.gcmquickstart.MyGcmListenerService {
+    <init>();
+}
+
+-keep class gcm.play.android.samples.com.gcmquickstart.MyInstanceIDListenerService {
+    <init>();
+}
+
+-keep class gcm.play.android.samples.com.gcmquickstart.RegistrationIntentService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
