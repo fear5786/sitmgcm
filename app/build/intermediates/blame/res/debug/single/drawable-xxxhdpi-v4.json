@@ -20,20 +20,20 @@
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\left_arrow.png",
-        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\it.neokree\\MaterialTabs\\0.11\\res\\drawable-xxxhdpi-v4\\left_arrow.png"
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\left_arrow.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\it.neokree\\MaterialTabs\\0.11\\res\\drawable-xxxhdpi-v4\\left_arrow.png"
     },
     {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",

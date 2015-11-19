@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\it.neokree\\MaterialTabs\\0.11\\res\\drawable-hdpi-v4\\left_arrow.png"
     },
     {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messages.jpg",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\src\\main\\res\\drawable-hdpi\\messages.jpg"
+    },
+    {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
@@ -156,6 +160,14 @@
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\src\\main\\res\\drawable-hdpi\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mail.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
     },
@@ -178,6 +190,10 @@
     {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
         "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\exploded-aar\\it.neokree\\MaterialTabs\\0.11\\res\\drawable-hdpi-v4\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\none.png",
+        "source": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\src\\main\\res\\drawable-hdpi\\none.png"
     },
     {
         "merged": "C:\\Users\\Gerbert\\google-services\\android\\gcm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",

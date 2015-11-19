@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Gerbert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_06f93ddb5225b5ae6cf79db61d288f452feccac8.jar" />
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_cc7cab24460d89cae9f59150fe6e55d905173ebf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\Android-AdvancedWebView.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9c56e7ef090195911dedbf350ce6844e487162e5">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\Android-AdvancedWebView_8f80846ecf563bea8ed41fb85468f7465ca408d6.jar" />
     </item>
     <item
         jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\commons-codec-1.9.jar"
@@ -16,27 +23,6 @@
         <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\commons-codec-1.9_c5920164e608f5304d53e4bbb809532c163d03b4.jar" />
     </item>
     <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\fluent-hc-4.5.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1_b4900ad35de52a8891eecc7092504e6a0aa657e9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpmime-4.5.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpmime-4.5.1_bfdae78c8d7a495f129150dde4e11a63e6e2865b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_b51a89e3b0aab2b585e5a506366882039434d856.jar" />
-    </item>
-    <item
         jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
@@ -44,46 +30,18 @@
         <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.3.0_a61125c48f4dd7fb43950d267ff3c886ed9713f0.jar" />
     </item>
     <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jar="C:\Users\Gerbert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
         jumboMode="false"
-        revision="23.0.0"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.3.0_b88a28084e0e1d2dbda41d3bd538a7ebbc481ee0.jar" />
+        revision="23.0.1"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\sample\build\intermediates\pre-dexed\debug\support-v4-19.0.0_e5c09fec0f6c02928ccc329e2997b9ea132a3f81.jar" />
     </item>
     <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jar="C:\Users\Gerbert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.3.0_2ad80433afe9da9974433f9f086c91b5a154917c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_95642ab67d607159279a920626c4ca920286af7b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpcore-4.4.3.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3_0be8417a32ead3dd8d118718a3f4707c2d921b7e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_cc7cab24460d89cae9f59150fe6e55d905173ebf.jar" />
-    </item>
-    <item
-        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\commons-logging-1.2.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
-        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\commons-logging-1.2_b04dd150fee52eca630a21ab252de2ee45ddf143.jar" />
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_06f93ddb5225b5ae6cf79db61d288f452feccac8.jar" />
     </item>
     <item
         jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
@@ -93,6 +51,20 @@
         <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.3.0_bf3dfef45f98653a73328cec090822d1092b3ddf.jar" />
     </item>
     <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\fluent-hc-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1_b4900ad35de52a8891eecc7092504e6a0aa657e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_b51a89e3b0aab2b585e5a506366882039434d856.jar" />
+    </item>
+    <item
         jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpclient-cache-4.5.1.jar"
         jumboMode="false"
         revision="23.0.0"
@@ -100,11 +72,74 @@
         <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1_1e5e47241fbeb189814a8df388c1e5ef51d8f7a4.jar" />
     </item>
     <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_849204c885d456e40ab876f2b4e2fbd193202d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_95642ab67d607159279a920626c4ca920286af7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.astuetz-pagerslidingtabstrip-1.0.1_9722fc876a7741b6d5dedf2710c5db96166f24b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\sample\build\intermediates\exploded-aar\gcm\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17631fc4311ff623c94b4278eeb3489a6a97871c">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\sample\build\intermediates\pre-dexed\debug\gcm-library-unspecified_a47f2914e8777e318a7ede0b95ea4a35b93a2f54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.3.0_2ad80433afe9da9974433f9f086c91b5a154917c.jar" />
+    </item>
+    <item
         jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpclient-4.5.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
         <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1_2418183af0f2c21346cc92338ec37667a18b7a38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.3.0_b88a28084e0e1d2dbda41d3bd538a7ebbc481ee0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3_0be8417a32ead3dd8d118718a3f4707c2d921b7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\commons-logging-1.2_b04dd150fee52eca630a21ab252de2ee45ddf143.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gerbert\google-services\android\gcm\app\libs\httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="C:\Users\Gerbert\google-services\android\gcm\app\build\intermediates\pre-dexed\debug\httpmime-4.5.1_bfdae78c8d7a495f129150dde4e11a63e6e2865b.jar" />
     </item>
 
 </items>
