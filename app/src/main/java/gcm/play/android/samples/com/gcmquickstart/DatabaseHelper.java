@@ -2,6 +2,7 @@ package gcm.play.android.samples.com.gcmquickstart;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
@@ -35,7 +36,9 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         onCreate(db);
     }
 
-    public void insertMsg(String msg) {
+    public boolean insertMsg(String msg) {
+
+        boolean createSuccessful = false;
 
         SQLiteDatabase db = getWritableDatabase();
 
@@ -43,9 +46,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         cv.put("MESSAGE", msg);
 
-        db.insert(TABLE_NAME, null, cv);
+        createSuccessful = db.insert(TABLE_NAME, null, cv) > 0;
 
         db.close();
+
+        return createSuccessful;
 
     }
 }

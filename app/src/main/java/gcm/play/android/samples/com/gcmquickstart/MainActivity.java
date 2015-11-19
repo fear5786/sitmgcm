@@ -28,6 +28,8 @@ import android.preference.PreferenceManager;
 import android.support.v4.content.LocalBroadcastManager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -64,12 +66,76 @@ public class MainActivity extends AppCompatActivity {
     private BroadcastReceiver mRegistrationBroadcastReceiver;
     private ProgressBar mRegistrationProgressBar;
     private TextView mInformationTextView;
+    public Context context = this;
+    public static String priority = "";
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        final Button guest_button = (Button) findViewById(R.id.priority_guest);
+        guest_button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Perform action on click
+
+                priority = "guest";
+                Log.v(TAG, "Priority: " + priority);
+
+                DatabaseHelper db = new DatabaseHelper(context);
+                if(db.insertMsg(priority))
+                {
+                    Log.v(TAG, "Saved");
+                }else{
+                    Log.v(TAG, "Not Saved");
+                }
+
+            }
+        });
+
+        final Button student_button = (Button) findViewById(R.id.priority_student);
+        student_button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Perform action on click
+                priority = "student";
+                Log.v(TAG, "Priority: " + priority);
+                DatabaseHelper db = new DatabaseHelper(context);
+                if(db.insertMsg(priority))
+                {
+                    Log.v(TAG, "Saved");
+                }else{
+                    Log.v(TAG, "Not Saved");
+                }
+            }
+        });
+
+        final Button lecturer_button = (Button) findViewById(R.id.priority_lecturer);
+        lecturer_button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Perform action on click
+                priority = "lecturer";
+                Log.v(TAG, "Priority: " + priority);
+                DatabaseHelper db = new DatabaseHelper(context);
+                if(db.insertMsg(priority))
+                {
+                    Log.v(TAG, "Saved");
+                }else{
+                    Log.v(TAG, "Not Saved");
+                }
+            }
+        });
+
+        final Button showdata_button = (Button) findViewById(R.id.showmysql);
+        showdata_button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // Perform action on click
+                Log.v(TAG, "UserID in: " );
+            }
+        });
+
+
 
         mRegistrationProgressBar = (ProgressBar) findViewById(R.id.registrationProgressBar);
         mRegistrationBroadcastReceiver = new BroadcastReceiver() {
